@@ -1,0 +1,7 @@
+{
+  "name": "timer-restrr",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
